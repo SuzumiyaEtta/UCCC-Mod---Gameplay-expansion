@@ -1,0 +1,26 @@
+[
+   {
+        "name": "+300%[Science]",
+        "hiddenInVictoryScreen":true,
+        "victoryScreenHeader": "+300%[Science]",
+        "milestones": ["Build [+300%[Science] Victory]"]
+   },
+   {
+        "name": "[[-2] Sight]",
+        "hiddenInVictoryScreen":true,
+        "victoryScreenHeader": "[[-2] Sight]",
+        "milestones": ["Build [[[-2] Sight] Victory]"]
+   },
+   {
+        "name": "Only Cavalry",
+        "hiddenInVictoryScreen":true,
+        "victoryScreenHeader": "[Only Cavalry]",
+        "milestones": ["Build [[Only Cavalry] Victory]"]
+   },
+   {
+        "name": "Double Military Units",
+        "hiddenInVictoryScreen":true,
+        "victoryScreenHeader": "[Only Cavalry]",
+        "milestones": ["Build [[Double Military Units] Victory]"]
+   }
+]

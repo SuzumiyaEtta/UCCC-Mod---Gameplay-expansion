@@ -1,0 +1,368 @@
+[
+    {
+		"name": "Double [Scout]",
+		"uniques": [
+			"Free [Scout] appears"
+	]
+	},
+	{
+		"name": "Double [Warrior]",
+		"uniques": [
+			"Free [Warrior] appears"
+	]
+	},
+	{
+		"name": "Double [Archer]",
+		"uniques": [
+			"Free [Archer] appears"
+	]
+	},
+	{
+		"name": "Double [Trireme]",
+		"uniques": [
+			"Free [Trireme] appears"
+	]
+	},
+	{
+    "name": "Double [Galley]",
+    "uniques": [
+        "Free [Galley] appears"
+    ]
+    },
+    {
+    "name": "Double [Chariot Archer]",
+    "uniques": [
+        "Free [Chariot Archer] appears"
+    ]
+    },
+    {
+    "name": "Double [Spearman]",
+    "uniques": [
+        "Free [Spearman] appears"
+    ]
+    },
+    {
+    "name": "Double [Horseman]",
+    "uniques": [
+        "Free [Horseman] appears"
+    ]
+    },
+    {
+    "name": "Double [Catapult]",
+    "uniques": [
+        "Free [Catapult] appears"
+    ]
+    },
+    {
+    "name": "Double [Composite Bowman]",
+    "uniques": [
+        "Free [Composite Bowman] appears"
+    ]
+    },
+    {
+    "name": "Double [Swordsman]",
+    "uniques": [
+        "Free [Swordsman] appears"
+    ]
+    },
+    {
+    "name": "Double [Pikeman]",
+    "uniques": [
+        "Free [Pikeman] appears"
+    ]
+    },
+    {
+    "name": "Double [Galleass]",
+    "uniques": [
+        "Free [Galleass] appears"
+    ]
+    },
+    {
+    "name": "Double [Knight]",
+    "uniques": [
+        "Free [Knight] appears"
+    ]
+    },
+    {
+    "name": "Double [Crossbowman]",
+    "uniques": [
+        "Free [Crossbowman] appears"
+    ]
+    },
+    {
+    "name": "Double [Trebuchet]",
+    "uniques": [
+        "Free [Trebuchet] appears"
+    ]
+    },
+    {
+    "name": "Double [Longswordsman]",
+    "uniques": [
+        "Free [Longswordsman] appears"
+    ]
+    },
+    {
+    "name": "Double [Caravel]",
+    "uniques": [
+        "Free [Caravel] appears"
+    ]
+    },
+    {
+    "name": "Double [Musketman]",
+    "uniques": [
+        "Free [Musketman] appears"
+    ]
+    },
+    {
+    "name": "Double [Privateer]",
+    "uniques": [
+        "Free [Privateer] appears"
+    ]
+    },
+    {
+    "name": "Double [Frigate]",
+    "uniques": [
+        "Free [Frigate] appears"
+    ]
+    },
+    {
+    "name": "Double [Lancer]",
+    "uniques": [
+        "Free [Lancer] appears"
+    ]
+    },
+    {
+    "name": "Double [Sipahi]",
+    "uniques": [
+        "Free [Sipahi] appears"
+    ]
+    },
+    {
+    "name": "Double [Hakkapeliitta]",
+    "uniques": [
+        "Free [Hakkapeliitta] appears"
+    ]
+    },
+    {
+    "name": "Double [Cannon]",
+    "uniques": [
+        "Free [Cannon] appears"
+    ]
+    },
+    {
+    "name": "Double [Gatling Gun]",
+    "uniques": [
+        "Free [Gatling Gun] appears"
+    ]
+    },
+    {
+    "name": "Double [Rifleman]",
+    "uniques": [
+        "Free [Rifleman] appears"
+    ]
+    },
+    {
+    "name": "Double [Cavalry]",
+    "uniques": [
+        "Free [Cavalry] appears"
+    ]
+    },
+    {
+    "name": "Double [Ironclad]",
+    "uniques": [
+        "Free [Ironclad] appears"
+    ]
+    },
+    {
+    "name": "Double [Artillery]",
+    "uniques": [
+        "Free [Artillery] appears"
+    ]
+    },
+    {
+    "name": "Double [Submarine]",
+    "uniques": [
+        "Free [Submarine] appears"
+    ]
+    },
+    {
+    "name": "Double [Great War Infantry]",
+    "uniques": [
+        "Free [Great War Infantry] appears"
+    ]
+    },
+    {
+    "name": "Double [Triplane]",
+    "uniques": [
+        "Free [Triplane] appears"
+    ]
+    },
+    {
+    "name": "Double [Great War Bomber]",
+    "uniques": [
+        "Free [Great War Bomber] appears"
+    ]
+    },
+    {
+    "name": "Double [Infantry]",
+    "uniques": [
+        "Free [Infantry] appears"
+    ]
+    },
+    {
+    "name": "Double [Carrier]",
+    "uniques": [
+        "Free [Carrier] appears"
+    ]
+    },
+    {
+    "name": "Double [Battleship]",
+    "uniques": [
+        "Free [Battleship] appears"
+    ]
+    },
+    {
+    "name": "Double [Machine Gun]",
+    "uniques": [
+        "Free [Machine Gun] appears"
+    ]
+    },
+    {
+    "name": "Double [Anti-Aircraft Gun]",
+    "uniques": [
+        "Free [Anti-Aircraft Gun] appears"
+    ]
+    },
+    {
+    "name": "Double [Landship]",
+    "uniques": [
+        "Free [Landship] appears"
+    ]
+    },
+    {
+    "name": "Double [Destroyer]",
+    "uniques": [
+        "Free [Destroyer] appears"
+    ]
+    },
+    {
+    "name": "Double [Marine]",
+    "uniques": [
+        "Free [Marine] appears"
+    ]
+    },
+    {
+    "name": "Double [Fighter]",
+    "uniques": [
+        "Free [Fighter] appears"
+    ]
+    },
+    {
+    "name": "Double [Bomber]",
+    "uniques": [
+        "Free [Bomber] appears"
+    ]
+    },
+    {
+    "name": "Double [Paratrooper]",
+    "uniques": [
+        "Free [Paratrooper] appears"
+    ]
+    },
+    {
+    "name": "Double [Tank]",
+    "uniques": [
+        "Free [Tank] appears"
+    ]
+    },
+    {
+    "name": "Double [Panzer]",
+    "uniques": [
+        "Free [Panzer] appears"
+    ]
+    },
+    {
+    "name": "Double [Anti-Tank Gun]",
+    "uniques": [
+        "Free [Anti-Tank Gun] appears"
+    ]
+    },
+    {
+    "name": "Double [Atomic Bomb]",
+    "uniques": [
+        "Free [Atomic Bomb] appears"
+    ]
+    },
+    {
+    "name": "Double [Rocket Artillery]",
+    "uniques": [
+        "Free [Rocket Artillery] appears"
+    ]
+    },
+    {
+    "name": "Double [Mobile SAM]",
+    "uniques": [
+        "Free [Mobile SAM] appears"
+    ]
+    },
+    {
+    "name": "Double [Guided Missile]",
+    "uniques": [
+        "Free [Guided Missile] appears"
+    ]
+    },
+    {
+    "name": "Double [Nuclear Missile]",
+    "uniques": [
+        "Free [Nuclear Missile] appears"
+    ]
+    },
+    {
+    "name": "Double [Helicopter Gunship]",
+    "uniques": [
+        "Free [Helicopter Gunship] appears"
+    ]
+    },
+    {
+    "name": "Double [Nuclear Submarine]",
+    "uniques": [
+        "Free [Nuclear Submarine] appears"
+    ]
+    },
+    {
+    "name": "Double [Mechanized Infantry]",
+    "uniques": [
+        "Free [Mechanized Infantry] appears"
+    ]
+    },
+    {
+    "name": "Double [Missile Cruiser]",
+    "uniques": [
+        "Free [Missile Cruiser] appears"
+    ]
+    },
+    {
+    "name": "Double [Modern Armor]",
+    "uniques": [
+        "Free [Modern Armor] appears"
+    ]
+    },
+    {
+    "name": "Double [Jet Fighter]",
+    "uniques": [
+        "Free [Jet Fighter] appears"
+    ]
+    },
+    {
+    "name": "Double [Giant Death Robot]",
+    "uniques": [
+        "Free [Giant Death Robot] appears"
+    ]
+    },
+    {
+    "name": "Double [Stealth Bomber]",
+    "uniques": [
+        "Free [Stealth Bomber] appears"
+    ]
+    }
+]

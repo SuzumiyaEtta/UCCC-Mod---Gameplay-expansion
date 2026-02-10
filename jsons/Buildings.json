@@ -1,0 +1,34 @@
+[
+    {
+        "name": "+300%[Science] Victory",
+        "cost": 99999,
+        "uniques":[
+        "Unsellable",
+        "Unbuildable",
+        ]
+    },
+    {
+        "name": "[[-2] Sight] Victory",
+        "cost": 99999,
+        "uniques":[
+        "Unsellable",
+        "Unbuildable",
+        ]
+    },
+    {
+        "name": "[Only Cavalry] Victory",
+        "cost": 99999,
+        "uniques":[
+        "Unsellable",
+        "Unbuildable",
+        ]
+    },
+    {
+        "name": "[Double Military Units] Victory",
+        "cost": 99999,
+        "uniques":[
+        "Unsellable",
+        "Unbuildable",
+        ]
+    },
+]

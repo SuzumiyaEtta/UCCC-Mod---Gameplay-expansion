@@ -31,4 +31,12 @@
         "Unbuildable",
         ]
     },
+    {
+        "name": "[Siege Cavalry] Victory",
+        "cost": 99999,
+        "uniques":[
+        "Unsellable",
+        "Unbuildable",
+        ]
+    },
 ]

@@ -3,6 +3,7 @@
     "uniques": [
     "[+300]% [Science] <when [+300%[Science]] Victory is enabled>",
     "[-2] Sight <for [All] units> <when [[[-2] Sight]] Victory is enabled>",
+    "[+66]% Strength <vs cities> <when attacking> <for [Mounted] units> <when [Siege Cavalry] Victory is enabled>",
     "Cannot build [Sword] units <when [Only Cavalry] Victory is enabled>",
     "Cannot build [Gunpowder] units <when [Only Cavalry] Victory is enabled>",
     "Cannot build [Archery] units <when [Only Cavalry] Victory is enabled>",

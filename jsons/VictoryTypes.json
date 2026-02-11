@@ -22,5 +22,11 @@
         "hiddenInVictoryScreen":true,
         "victoryScreenHeader": "[Only Cavalry]",
         "milestones": ["Build [[Double Military Units] Victory]"]
+   },
+   {
+        "name": "Siege Cavalry",
+        "hiddenInVictoryScreen":true,
+        "victoryScreenHeader": "[Siege Cavalry]",
+        "milestones": ["Build [[Siege Cavalry] Victory]"]
    }
 ]
